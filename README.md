@@ -1,1 +1,1 @@
-# Car-Movement
+Program reads velocity and steering angle rate of change from an input file and uses those values to calculate the position (x, y), delta, and theta using class files. Once these values are calculated, the program then outputs the values of time, position (x, y), delta, theta, velocity, and steering angle rate of change.
